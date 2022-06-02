@@ -7,3 +7,4 @@ everything = ["anis", "bhai"];
 everything = [1, 2];
 everything = [1, "2"];
 everything = {id :1, name : "anis"};
+
